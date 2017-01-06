@@ -25,11 +25,11 @@ img {
     }
 
     body {
-      background: teal;
+      background: rgba(20, 66, 18, 0.87);
       color: white;
-      font-family: 'helvetica neue', sans-serif;
+      font-family: 'Papyrus';
       font-weight: 100;
-      font-size: 30px;
+      font-size: 25px;
     }
 
     .controls {
